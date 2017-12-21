@@ -1,0 +1,5 @@
+#	Count	Description							Manufacturer				Product
+1	1		PCB 1mm								(pcbshopper)
+2	4		4mm Multilam plug M3 thread			Multi-Contact				SA404 22.1054
+3	4		M3x3mm Laptop screw (head 5x<1mm )	(ebay / laptopscrewsdirect)	
+4	1		wire strap 4,5-4,8x200mm			
